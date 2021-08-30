@@ -1,5 +1,7 @@
 # Свехразрешающая Сверточная Нейронная Сеть
 
+**Авторы:[Саффар Эмиль](https://github.com/emilsaffar), [Осипов Даниил](https://github.com/SeemsGucci)**
+
 Реализация архитектуры с использованием Deep Learning и PyTorch
 
 ## Описание
